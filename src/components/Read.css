@@ -1,0 +1,51 @@
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 150%;
+    height: 50px;
+    border: 1px solid #ccc;
+}
+
+thead {
+    border-bottom: 1px solid #ccc;
+}
+
+td,
+th {
+    /* border: 2px solid black; */
+    text-align: center;
+    padding: 18px;
+    color: #ccc;
+
+}
+
+.btn-red {
+    background-color: red !important;
+
+}
+
+.icon {
+    font-size: 24px;
+    color: red !important;
+    cursor: pointer;
+    margin-left: 20px !important;
+
+}
+
+.icon1 {
+    font-size: 24px;
+    color: #ccc !important;
+    cursor: pointer;
+    margin-left: 20px !important;
+
+}
+
+.shift-left {
+    margin-left: -290px;
+
+
+}
+
+.centent-heading {
+    margin-left: 200px;
+}

@@ -1,0 +1,32 @@
+
+
+input{
+    height: 40px;
+    width: 90%;
+    border-radius: 15px;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px 10px; 
+    
+    
+}
+
+button{
+    margin-left: 30px;
+    background-color: green !important;
+}
+.container{
+    border: 1px solid rgb(245, 245, 237);
+    border-width: 1px;
+    padding: 40px;
+    
+  
+  /* box-shadow: 5px 10px 8px 10px #888888; */
+  border-radius: 15px ;
+  /* background: rgba(76, 175, 80, 0.3); */
+  background: rgba(69, 116, 81, 0.966);
+  /* background: rgba(4, 170, 109, 0.6); */
+  
+  box-shadow: 5px 15px 5px 50px rgb(#aaa, #525, #250)
+  
+}
