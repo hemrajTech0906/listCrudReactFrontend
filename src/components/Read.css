@@ -3,11 +3,11 @@ table {
     border-collapse: collapse;
     width: 150%;
     height: 50px;
-    border: 1px solid #ccc;
+    border: 1px solid #0c0b0b;
 }
 
 thead {
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #0a0a0a;
 }
 
 td,
@@ -15,7 +15,7 @@ th {
     /* border: 2px solid black; */
     text-align: center;
     padding: 18px;
-    color: #ccc;
+    color: #070707;
 
 }
 
@@ -34,7 +34,7 @@ th {
 
 .icon1 {
     font-size: 24px;
-    color: #ccc !important;
+    color: #86880c !important;
     cursor: pointer;
     margin-left: 20px !important;
 
@@ -48,4 +48,6 @@ th {
 
 .centent-heading {
     margin-left: 200px;
+    background-color: aqua;
+    color: #070707;
 }
