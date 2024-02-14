@@ -16,14 +16,14 @@ button{
     background-color: green !important;
 }
 .container11{
-    border: 2px solid yellow;
+    border: 1px solid !important ;
     border-width: 5px;
     padding: 40px;
     
   
-  box-shadow: 5px 10px 8px 10px #888888;
+  box-shadow: 2px 2px 5px 2px #888888;
   border-radius: 15px ;
   /* background-color: aqua !important; */
-  
+  background-color: aqua;
   
 }

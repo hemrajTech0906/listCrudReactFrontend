@@ -72,13 +72,13 @@ const Update = () => {
 
   return (
     <div className='container11'>
-        <h2>Update data</h2>
+        <h2 style={{color:"black"}}>Update data</h2>
          <form>
-            <label htmlFor='name'>Name:</label>
+            <label style={{color:'black'}} htmlFor='name'>Name:</label>
             <input type="text" name="name" value={input.name} onChange={handleInputData}/>
             <br></br>
             <br></br>
-            <label htmlFor="email">Email:</label>
+            <label style={{color:'black'}} htmlFor="email">Email:</label>
             <input type="email" value={input.email} name="email" onChange={handleInputData}/>
             <br></br>
             <br></br>
